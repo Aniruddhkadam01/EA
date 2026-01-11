@@ -45,7 +45,7 @@
     "dayjs": "^1.11.13",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "neo4j-driver": "^5.28.1"
+    "neo4j-driver": "^6.0.1"
   },
   "devDependencies": {
     "@ant-design/pro-cli": "^3.3.0",
